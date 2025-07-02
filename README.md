@@ -1,5 +1,7 @@
 # UAS SIMDAT
 
-Hizkia
-Azzahra
-Satia
+1. Hizkia
+
+2. Azzahra
+
+3. Satia
